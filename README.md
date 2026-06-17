@@ -1,2 +1,2 @@
 # jellyfin-wii
-The Wii on jellyfin.
+The Wii on jellyfin. (hello Nintendo :-D)
